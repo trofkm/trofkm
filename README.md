@@ -1,6 +1,7 @@
 # Hi there! 👋
 
 I'm a C++ developer with a passion for Unreal Engine, Godot and backend development using Golang and Java. I'm currently exploring the exciting world of drones and studying Vulkan and computer graphics.
+
 [![wakatime](https://wakatime.com/badge/user/d417f393-3d2e-484a-98ef-6a349591ee8e.svg)](https://wakatime.com/@d417f393-3d2e-484a-98ef-6a349591ee8e)
 ## My Skills
 
