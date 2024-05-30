@@ -3,6 +3,13 @@
 I'm a C++ developer with a passion for Unreal Engine, Godot and backend development using Golang and Java. I'm currently exploring the exciting world of drones and studying Vulkan and computer graphics.
 
 [![wakatime](https://wakatime.com/badge/user/d417f393-3d2e-484a-98ef-6a349591ee8e.svg)](https://wakatime.com/@d417f393-3d2e-484a-98ef-6a349591ee8e)
+
+<div align = "left">
+  <img width = "100%" src = "https://github-readme-stats.vercel.app/api?username=trofkm&show_icons=true&theme=vue"/>
+
+ <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=trofkm&theme=vue" alt="My GitHub Time Stats" />
+</div>
+
 ## My Skills
 
 - Modern C++
