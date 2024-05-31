@@ -10,6 +10,9 @@ I'm a C++ developer with a passion for Unreal Engine, Godot and backend developm
  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=trofkm&theme=vue&langs_count=5" alt="My GitHub Time Stats" />
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=stukenvitalii&theme=vue)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## My Skills
 
 - Modern C++
