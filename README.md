@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a C++ developer with a passion for Unreal Engine, Godot and backend development using Golang and Java. I'm currently exploring the exciting world of drones and studying Vulkan and computer graphics.
+I'm a C++ developer with a passion for Unreal Engine, Godot and backend development using Golang and Python. I'm currently exploring the exciting world of drones and studying Vulkan and computer graphics.
 
 [![wakatime](https://wakatime.com/badge/user/d417f393-3d2e-484a-98ef-6a349591ee8e.svg)](https://wakatime.com/@d417f393-3d2e-484a-98ef-6a349591ee8e)
 
@@ -21,11 +21,9 @@ I'm a C++ developer with a passion for Unreal Engine, Godot and backend developm
 - Virtual Reality
 - Lidar point cloud processing
 - Multiplayer synchronization and event broadcasting
-- A little bit Angular for my Drone application configuration
-- Backend Development using Golang and Java
+- Backend Development using Golang and Rust
 - Drones (UAVs)
-- Vulkan
-- Computer Graphics
+- Vulkan andComputer Graphics
 
 ## My Projects
 
