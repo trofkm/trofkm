@@ -51,7 +51,7 @@ I'm currently exploring the world of drones and working on a project that involv
 
 ### Vulkan and Computer Graphics
 
-I'm also currently studying Vulkan and computer graphics, and I've been working on a project that involves creating a real-time 3D rendering engine. Recently, I drawn my first 3D model in a scene with raw C++ :)
+I'm also currently studying Vulkan and computer graphics, and I've been working on a project that involves creating a real-time 3D rendering engine. Recently, I created my own path-tracing renderer :)
 
 ## Contact Me
 
