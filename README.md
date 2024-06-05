@@ -1,13 +1,13 @@
 # Hi there! 👋
 
 I'm a C++ developer with a passion for Unreal Engine, Godot and backend development using Golang and Python. I'm currently exploring the exciting world of drones and studying Vulkan and computer graphics.
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&title=Tech%20Stack&lineCount=1&line1=go,golang,auto;c,cpp,auto;docker,docker,auto;kubernetes,kubernetes,auto;postgresql,postgresql,auto;tarantool,tarantool,auto;&width=780&theme=github)
 
 [![wakatime](https://wakatime.com/badge/user/d417f393-3d2e-484a-98ef-6a349591ee8e.svg)](https://wakatime.com/@d417f393-3d2e-484a-98ef-6a349591ee8e)
 
 <div align = "left">
-  <img width = "100%" src = "https://github-readme-stats.vercel.app/api?username=trofkm&show_icons=true&theme=vue"/>
-
  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=trofkm&theme=vue&langs_count=5" alt="My GitHub Time Stats" />
+ <img width = "100%" src = "https://github-readme-stats.vercel.app/api?username=trofkm&show_icons=true&theme=vue"/>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stukenvitalii&theme=vue)](https://github.com/ryo-ma/github-profile-trophy)
