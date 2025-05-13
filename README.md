@@ -1,7 +1,7 @@
 # Hi there! 👋
 
-I'm a C++ developer with a passion for Unreal Engine, Godot and backend development using Golang and Python. I'm currently exploring the exciting world of drones and studying Vulkan and computer graphics.
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&title=Tech%20Stack&lineCount=1&line1=go,golang,auto;c,cpp,auto;linux,linux,auto;docker,docker,auto;rust,rust,auto;&width=780&theme=github)
+I'm a C++/Golang developer with a passion for game engines and backend development.
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&title=Tech%20Stack&lineCount=1&line1=go,golang,auto;c,cpp,auto;linux,linux,auto;docker,docker,auto;postgres,postgres,auto;&width=780&theme=github)
 
 [![wakatime](https://wakatime.com/badge/user/d417f393-3d2e-484a-98ef-6a349591ee8e.svg)](https://wakatime.com/@d417f393-3d2e-484a-98ef-6a349591ee8e)
 
@@ -16,14 +16,10 @@ I'm a C++ developer with a passion for Unreal Engine, Godot and backend developm
 ## My Skills
 
 - Modern C++
-- GIS (Cesium and a little bit of World Wind)
 - Unreal Engine
-- Virtual Reality
-- Lidar point cloud processing
+- Vulkan and Computer Graphics
 - Multiplayer synchronization and event broadcasting
-- Backend Development using Golang and Rust
-- Drones (UAVs)
-- Vulkan andComputer Graphics
+- Backend Development
 
 ## My Projects
 
@@ -39,11 +35,11 @@ I also have been working on VR game with multiplayer using Unreal Engine 5. Now 
 
 ### Backend Development
 
-I've been working on a backend system using Golang that handles video and telemetry data stream from UAV. 
+I've been working on a backend system using Golang that handles video and telemetry data stream from UAV. I was also involved in a large-scale service-oriented project that handled 500 MB/s of binary traffic and processed it in real time. 
 
 ### Drone Development
 
-I'm currently exploring the world of drones and working on a project that involves developing a drone that can capture high-resolution images. Here's a glimpse of the drone in action:
+Previously, I was involved in a UAV project where I developed software for processing high-resolution aerial imagery. Here's a glimpse of the drone in action:
 
 ![Drone Development](Resources/uav.gif)
 
@@ -53,6 +49,6 @@ I'm also currently studying Vulkan and computer graphics, and I've been working 
 
 ## Contact Me
 
-If you'd like to get in touch, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/kirill-trofimov-6a0a4224b/) or [Telegram](https://t.me/trofkm) Let's connect and build amazing things together!
+If you'd like to get in touch, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/kirill-trofimov-backend-ai) or [Telegram](https://t.me/trofkm) Let's connect and build amazing things together!
 
 Thank you for checking out my profile!
